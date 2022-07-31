@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://edito.ghost.io
+
+# Sitemaps
+Sitemap: https://edito.ghost.io/sitemap.xml
+Sitemap: https://edito.ghost.io/sitemap-0.xml
